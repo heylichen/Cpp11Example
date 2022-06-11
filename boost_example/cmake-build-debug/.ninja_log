@@ -1,0 +1,5 @@
+# ninja log v5
+0	772	1654951480932321629	CMakeFiles/boost_test.dir/boost_test.cpp.o	db178d49d8b29f0d
+774	817	1654951480976321858	boost_test	d43be30ae2a12af2
+2	763	1654951583413302945	CMakeFiles/boost_test.dir/boost_test.cpp.o	2586cbc6ea93b7a0
+763	827	1654951583481304694	boost_test	d43be30ae2a12af2

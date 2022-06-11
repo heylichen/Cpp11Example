@@ -1,0 +1,6 @@
+/home/lc/work/clion-2022.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/lc/work/clion-2022.1.2/bin/ninja/linux/ninja -G Ninja -S /home/lc/work/lab/Cpp11Example/boost_example -B /home/lc/work/lab/Cpp11Example/boost_example/cmake-build-debug
+Boost_INCLUDE_DIRS /usr/include
+Boost_LIBRARY_DIRS /usr/lib/x86_64-linux-gnu
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lc/work/lab/Cpp11Example/boost_example/cmake-build-debug
